@@ -4,6 +4,7 @@ This project demonstrates the use of LSTM (Long Short-Term Memory) neural networ
 
 
 *Dataset*
+
 The dataset used for this project is the Decathlon Apparel Data available on Kaggle. It consists of information about Decathlon apparel products, including product names, MRP, star ratings, and sale prices.
 
 
